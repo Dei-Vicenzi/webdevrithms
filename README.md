@@ -7,7 +7,7 @@
 
 - 💬 Puedes preguntarme acerca de **CSS / SCSS / HTML **
 
-- 📫 Como contactarme **divicenzi.webdev@gmail.com**
+- 📫 Como contactarme **deivicenzi.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
