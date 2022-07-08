@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Soy Dei Vicenzi</h1>
 <h3 align="center">Soy estudiante de desarrollo web</h3>
 
-- 🌱 Actualmente estoy aprendiendo **JavaScript / Vue.js**
+- 🌱 Actualmente estoy aprendiendo **JavaScript / Tailwind CSS**
 
 - 👨‍💻 Todos mis proyectos podrás verlos en [miportafolioaqui.dev](miportafolioaqui.dev)
 
-- 💬 Puedes preguntarme acerca de **CSS / SCSS / HTML **
+- 💬 Puedes preguntarme acerca de **CSS / SCSS **
 
 - 📫 Como contactarme **deivicenzi.dev@gmail.com**
 
