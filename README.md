@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Dei Vicenzi</h1>
-<h3 align="center">Soy desarroladora web frontend.</h3>
+<h3 align="center">Soy desarrolladora web frontend.</h3>
 
 - 👨‍💻 Todos mis proyectos podrás verlos en [miportafolioaqui.dev](miportafolioaqui.dev)
 
