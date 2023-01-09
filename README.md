@@ -1,9 +1,7 @@
-<h1 align="center">Hola 👋, Soy Dei Vicenzi</h1>
+<h1 align="center">Hola 👋, Soy Deisy</h1>
 <h3 align="center">Soy desarrolladora web frontend.</h3>
 
 - 👨‍💻 Todos mis proyectos podrás verlos en (mi portafolio dev aquí proximamente)
-
-- 💬 Puedes preguntarme acerca de **HTML5 | CSS3 | SCSS | Tailwind.css | JavaScript | MongoDB | 
 
 - 📫 Como contactarme **deivicenzi.dev@gmail.com**
 
