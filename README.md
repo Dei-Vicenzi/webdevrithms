@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Deisy</h1>
 <h3 align="center">Soy desarrolladora web frontend.</h3>
 
-- 👨‍💻 Todos mis proyectos podrás verlos en (mi portafolio dev aquí proximamente)
+
 
 - 📫 Como contactarme **deivicenzi.dev@gmail.com**
 
